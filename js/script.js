@@ -194,8 +194,7 @@ roomLevel.tretiy = hotel[2].reduce((zero, item ) => zero + item.price, 0)
 roomLevel.chetvertiy = hotel[3].reduce((zero, item ) => zero + item.price, 0)
 
 
-//console.log(brands);
-//console.log(`Сумма всех комнат в отлеле: ${sum}`);
-//console.log(roomLevel.perviy);
-//console.log(roomLevel);
-console.log(childrenRoom);
+console.log(brands);
+console.log(`Сумма всех комнат в отлеле: ${sum}`);
+console.log(roomLevel);
+console.log(`Children in the room ${childrenRoom}`);
