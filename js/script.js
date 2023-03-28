@@ -193,7 +193,7 @@ roomLevel.vtoroy = hotel[1].reduce((zero, item ) => zero + item.price, 0)
 roomLevel.tretiy = hotel[2].reduce((zero, item ) => zero + item.price, 0)
 roomLevel.chetvertiy = hotel[3].reduce((zero, item ) => zero + item.price, 0)
 
-
+console.log(hotel);
 console.log(brands);
 console.log(`Сумма всех комнат в отлеле: ${sum}`);
 console.log(roomLevel);
