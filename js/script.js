@@ -198,4 +198,4 @@ console.log(brands);
 console.log(rooms);
 console.log(`Сумма всех комнат в отлеле: ${sum}`);
 console.log(roomLevel);
-console.log(`Children in the room ${childrenRoom}`);
+console.log(childrenRoom);
