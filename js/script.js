@@ -1,5 +1,5 @@
 //task1
-/*const testPosts = [
+const testPosts = [
     {
         postId: 234,
         author: 'robd',
@@ -30,7 +30,7 @@ changedPosts.forEach(item => {
 })
 console.log(testPosts);
 console.log(changedPosts);
-*/
+
 
 //task2
 let hotel = [
